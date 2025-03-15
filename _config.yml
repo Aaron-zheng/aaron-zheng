@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap 
+title:              SightCorner
+email:              fucheng.zheng@gmail.com
+description:        做一只有趣的灵魂在世界游荡
+author:             Aaron Zheng
 baseurl:            "/aaron-zheng"
 url:                "https://aaron-zheng.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   aaronzheng_
+github_username:    aaron-zheng
+facebook_username:  
 instagram_username:  
 linkedin_username:
 
@@ -20,6 +20,6 @@ markdown:           kramdown
 paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  # - jekyll-feed
+  # - jekyll-paginate
+  # - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
